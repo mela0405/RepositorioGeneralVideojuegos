@@ -38,3 +38,6 @@ Desktop.ini
 
 # Keep Unity project source/config tracked:
 # Assets/, Packages/, ProjectSettings/, and their .meta files should be committed.
+
+# This repo stores Lab10 as a compressed deliverable.
+/Lab10_Escena3D/
